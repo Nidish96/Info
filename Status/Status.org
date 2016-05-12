@@ -1,0 +1,42 @@
+#+TITLE: IIST FOSS Club Activities and Presentations
+
+* About
+  This is IIST's Free and Open Source Software (FOSS) Club started
+as an effort in promoting FOSS based research in the fields of
+Science and Engineering.
+** Agenda
+   The Agendas of the club include Presentations, lectures, demos, 
+and other activities organized to increase the members' confidence
+in using FOSS software platforms for their everyday academic use.
+** Plan
+   A set of presentations (once or twice a month) are planned for 
+each year which will stand as the backbone of the functioning of 
+the club. All the activities will be accomodated either during these
+slots or at other slots.
+
+
+* Work
+** Sessions
+1. Introduction to FOSS and Linux
+2. Linux Installation Fest
+3. Introduction to Scientific Computing with Linux 
+   + I. Introduction   
+     - The Linux File System
+     - File Handling in Linux
+   + II. Basic Tools
+     - Emacs
+     - Octave
+     - Gnuplot
+4. Basic Computing
+   + Bash
+   + C/C++
+   + Python
+5. Software Development
+   + GNU Make
+   + Version Control Systems
+     - RCS
+     - CVS
+     - Git
+
+
+* Schedules
